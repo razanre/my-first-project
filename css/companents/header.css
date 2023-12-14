@@ -1,0 +1,208 @@
+header .row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+header .logo img {
+    margin-right: 55px;
+    margin-left: 40px;
+    width: 138px;
+    height: 138px;
+    cursor: pointer;
+}
+
+header .info img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+header .info p {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 15px;
+}
+
+header .line {
+    border-top: 1px solid #202020;
+    width: 1374px;
+    margin-bottom: 10px;
+}
+
+header .line2 {
+    border-top: 1px solid #202020;
+    width: 80px;
+    margin-top: 10px;
+}
+
+header .info {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     gap: 90px;
+     color: #202020;
+     font-size: 18px;
+     margin-bottom: 20px;
+}
+
+header .nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 63px;
+    color:#202020;
+    font-size: 19px;
+    margin-top: 20px;
+}
+
+header .nav p {
+    cursor: pointer;
+}
+
+header {
+    background-image: url(./../../img/Black.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.text2 {
+   font-weight: 600;
+   font-size: 82px;
+   margin-top: 149px;
+   color: #220959;
+   margin-left:116px;
+}
+
+.text3 {
+    margin-left: 116px;
+    margin-top: 21px;
+}
+
+.column .text3 p {
+    font-weight:200;
+    font-size: 19px;
+}
+
+.knopka {
+    margin-left: 116px;
+    margin-top: 33px;
+}
+
+button {
+    cursor: pointer;
+    font-size: 19px;
+    align-items: center;
+    color: #220959;
+    background-color: rgb(213, 213, 226);
+    border-radius: 60px;
+    border-width: 2px;
+    border-color: #220959;
+    padding: 20px 50px;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: -8px 12px 4px rgb(157, 147, 178);
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    width: 40px;
+    height: 40px;
+    gap: 20px;
+    margin-top: 160px;
+    margin-left: 116px;
+    filter: invert(6%) sepia(75%) saturate(4382%) hue-rotate(258deg) brightness(93%) contrast(106%);
+    padding-bottom: 5px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.contacts img {
+    transition: 1s;
+}
+.contacts img:hover {
+    width: 40px;
+    height: 37px;
+    transition: 1s;
+}
+
+.text4 .NRB {
+    margin-top: 150px;
+    margin-left: 116px;
+    font-size: 42px;
+    font-weight: bolder;
+}
+
+.text4 .line3 {
+    border-top: 3px solid #202020;
+    width: 68px;
+    margin-top: 17px;
+}
+
+.text4 .intro  {
+    font-size: 20px;
+    margin-left: 116px;
+    margin-top: 30px;
+    line-height: 1.5;
+    word-spacing: 9px;
+}
+
+.text4 .numberss {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-left: 116px;
+    margin-top: 45px;
+}
+
+.text4 .numberss .nine h1 {
+    font-size: 30px;
+    color: #220959;
+    font-weight: bold;
+}
+.text4 .numberss .eighty h2 {
+    font-size: 30px;
+    color: #220959;
+    font-weight: bold;
+    word-spacing: 6px;
+}
+.text4 .numberss .hundred h3 {
+    font-size: 30px;
+    color: #220959;
+    font-weight: bold;
+    word-spacing: 6px;
+}
+
+.text4 .numberss p {
+    font-size: 20px;
+    line-height: 1.3;
+    word-spacing: 6px;
+    margin-top: 16px;
+}
+
+.photoo {
+    box-shadow: -15px 15px 1px rgb(215, 215, 215);
+    width: 650px;
+    height: 500px;
+    margin-top: 120px;
+    transition: 0.3s;
+}
+.photoo:hover {
+    transform: scale(1.02);
+    box-shadow:-20px 20px 10px rgb(157, 147, 178) ;
+}
+
+.second-page {
+    display: flex;
+}
+
+.second-page .text4 {
+    margin-right: 110px;
+}

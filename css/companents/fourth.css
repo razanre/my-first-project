@@ -1,0 +1,203 @@
+.start p {
+    font-size: 42px;
+    margin-top: 150px;
+    margin-left: 116px;
+    font-weight: 550;
+}
+
+.start .line5 {
+    border-top: 3px solid #220959;
+    width: 68px;
+    margin-left: 116px;
+    margin-top: 16px;
+}
+
+.charts {
+    margin-top: 100px;
+    margin-left: 90px;
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+}
+
+/* =====11111111111============================================ */
+
+.col1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.exp {
+    display: flex;
+    margin-left: 99px;
+    gap: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.exp:hover {
+    transform: scale(1.04);
+}
+
+.column h2 {
+    margin-top: -8px;
+    font-size: 24px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.column p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 10px;
+    letter-spacing: 0.3px;
+}
+
+/* ======11111111111111====================================== */
+
+.expert {
+    display: flex;
+    margin-left: 99px;
+    margin-top: 70px;
+    gap: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.expert:hover {
+    transform: scale(1.04);
+}
+
+.column1 h2 {
+    margin-top: -8px;
+    font-size: 24px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.column1 p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 10px;
+    letter-spacing: 0.3px;
+}
+
+/* ======22222222222222===================================== */
+
+.col2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.safe {
+    display: flex;
+    gap: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.safe:hover {
+    transform: scale(1.04);
+}
+
+.column2 h2 {
+    margin-top: -8px;
+    font-size: 24px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.column2 p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 10px;
+    letter-spacing: 0.3px;
+}
+
+/* =========22222222222222=============================== */
+
+.honestly {
+    display: flex;
+    margin-top: 70px;
+    gap: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.honestly:hover {
+    transform: scale(1.04);
+}
+
+.column3 h2 {
+    margin-top: -8px;
+    font-size: 24px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.column3 p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 10px;
+    letter-spacing: 0.3px;
+}
+
+/* =========33333333333333================================= */
+
+.col3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.flexable {
+    display: flex;
+    gap: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.flexable:hover {
+    transform: scale(1.04);
+}
+
+.column4 h2 {
+    margin-top: -8px;
+    font-size: 24px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.column4 p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 10px;
+    letter-spacing: 0.3px;
+}
+
+/* ===========33333333333333==================================== */
+
+.quality {
+    display: flex;
+    margin-top: 70px;
+    gap: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.quality:hover {
+    transform: scale(1.04);
+}
+
+.column5 h2 {
+    margin-top: -8px;
+    font-size: 24px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.column5 p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 10px;
+    letter-spacing: 0.3px;
+}
